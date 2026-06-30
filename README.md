@@ -3,7 +3,7 @@
 The lab commissioned [Jesse Darley](https://making.engr.wisc.edu/staff/darley-jesse/) to design baskets for *Euprymna scolopes* and *Euprymna berryi* egg/embryo clutches. The current designs are listed on this site and can be enjoyed by others for non-commercial uses.
 
 Here are the parameters we employed/refined in the design:
-- Baskets are to fit in an Iwaki AQT2LT 2 L tank fitted with an AQT2LC lid and AQT2LF10 1000 μm filter.
+- Baskets are to fit in an Iwaki `AQT2LT` 2 L tank fitted with an `AQT2LC` lid and `AQT2LF10` 1000 μm filter.
 - Basket height should allow the tank lid to close, to limit evaporation and salt build-up. We adjusted the initial height of the baskets to be as close to the lid as possible so that hatchlings would not surf out of the baskets if the tank was tipped while moving it off the system gutter, or to/from a counter.
 - Ideal is to have up to 3 baskets per tank, but want it to be feasible to have only 1 or 2 baskets in place.
 - Need to be able to see hatchlings through the tank and be able to remove them readily, so want to use transparent. *Note: The transparent PETG we are currently using allows us to see a hint of the squid but it ends up more of a translucent white than as fully transparent.*
