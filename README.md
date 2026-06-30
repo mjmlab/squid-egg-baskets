@@ -1,5 +1,7 @@
 # Mandel Lab Squid Egg Baskets
 
+### ⚠️ Caveat: We have done minimal testing with the baskets, and will update in the future when we do more.
+
 The lab commissioned [Jesse Darley](https://making.engr.wisc.edu/staff/darley-jesse/) to design baskets for *Euprymna scolopes* and *Euprymna berryi* egg/embryo clutches. The current designs are listed on this site and can be enjoyed by others for non-commercial uses.
 
 Here are the parameters we employed/refined in the design:
