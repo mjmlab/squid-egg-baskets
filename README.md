@@ -25,6 +25,12 @@ Through testing, we further modified the baskets as follows:
 - The platform was printed as a separate device from earlier prototypes. This offered two substantial benefits. First, it allowed the baskets to be a standardized shape for mass printing (rather than having a stand attached). Second, the platform design enables mounting 1, 2, or 3 baskets in a tank. The platform designed by Jesse allows users to readily snap in/out baskets without disrupting neighboring baskets (especially important if those baskets are filled with eggs!).
 - The platform design additionally offers another advantage: It can fit an air stone if desired.
 
+## Assembly Notes
+
+- Number labels press into recess in baskets.
+- Squeeze the platform to break weak connection between sections. These sections let the platform sections flex independently to add or remove individual baskets.
+
+
 ## 3D Printing
 
 #### Download files:
